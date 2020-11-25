@@ -1,0 +1,3 @@
+For compute_pascal I used a clock to find the time at the start of the function and the time at the end of the function and calculated the time taken/elapsed 
+to run the program by subtracting the end time from the start time. The time taken/elapsed is reliant on the speed of the pc on which the program as the clock is relative 
+to the CPU which is running the program.
